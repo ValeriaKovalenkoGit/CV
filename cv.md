@@ -7,7 +7,8 @@
 - Github: https://github.com/ValeriaKovalenkoGit
 
 # SUMMARY
-> I am a student at P.M. Masherov University of Eastern Europe, majoring in Information Resource Management. My goal is to become a professional in the field of information technology and apply my knowledge in various areas of business. I am motivated, diligent and love to learn new things. My strengths are analytical mind, communication skills, responsibility.
+> I am a 1st year student at P.M. Masherov Higher School of Economics, majoring in Information Resources Management. My goal is to become a qualified IT-specialist and develop in this field. I am responsible, goal-oriented and ready to learn new things. My strengths are analytical thinking, communication skills and ability to work in a team.
+
 # SKILLS
 
 1. С++
@@ -32,8 +33,8 @@ void bubbleSort(int arr[], int n) {
 ```
 
 # COURSES
-+ Экономика организации
-+ Высшая математика
++ Organizational Economics
++ Media culture of personality
 
 # PROJECTS
 
