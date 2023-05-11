@@ -38,7 +38,7 @@ void bubbleSort(int arr[], int n) {
 
 # PROJECTS
 
-Моё СV на GitHub: [https://github.com/AngelinaAnashkevich/CV/blob/markdowm-cv/cv.md](https://github.com/ValeriaKovalenkoGit/CV/blob/markdowm-cv/cv.md)
+Моё СV на GitHub: [https://github.com/ValeriaKovalenko/CV/blob/markdowm-cv/cv.md](https://github.com/ValeriaKovalenkoGit/CV/blob/markdowm-cv/cv.md)
 
 # EDUCATION
 
