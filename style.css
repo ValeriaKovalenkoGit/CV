@@ -4,6 +4,7 @@ body {
   display: flex;
   flex-direction: column;
   height: 100%;
+  font-family: 'Wix Madefor Display', sans-serif;
 }
 img {
   border-radius: 50%;
